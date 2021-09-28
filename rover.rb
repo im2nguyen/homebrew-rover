@@ -1,4 +1,4 @@
-class Envo < Formula
+class Rover < Formula
   desc "Interactive Terraform visualization. State and configuration explorer."
   homepage "https://github.com/im2nguyen/rover"
   url "https://github.com/im2nguyen/rover/releases/download/v0.2.0/rover-0.2.0.tar.gz"
