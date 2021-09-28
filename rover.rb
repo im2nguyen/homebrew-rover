@@ -9,7 +9,7 @@ class Envo < Formula
   # depends_on "cmake" => :build
 
   def install
-    bin.install "envo"
+    bin.install "rover"
   end
 
   test do
